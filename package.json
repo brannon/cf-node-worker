@@ -1,0 +1,11 @@
+{
+	"name": "cf-node-worker",
+	"version": "0.0.1",
+	"description": "Sample node worker app",
+	"engines": {
+		"node": ">=0.10"
+	},
+	"scripts": {
+		"start": "app.js"
+	}
+}
